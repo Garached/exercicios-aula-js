@@ -1,17 +1,10 @@
 # Desenvolvimento de Aplicativos Móveis com JavaScript 📱 
 Este repositório contém os exercícios desenvolvidos durante as aulas da disciplina de **Desenvolvimento de Aplicativos Móveis**, utilizando **JavaScript** e tecnologias relacionadas (React Native).
 
-## 📁 Exercícios: 
-/
-├── aula01/
-│ └── site cópia de São Bernardo do Campo
-├── aula02/
-│ └── calculadora
-├── aula03/
-│ └── cronometro com hooks
-├── aula04/
-│ └── jogo de adivinhação
-├── README.md
+## 📁 Exercícios:
+
+aula01 - site cópia de São Bernardo do Campo       aula02 - calculadora  
+aula03 - cronômetro com hooks                      aula04 - jogo de adivinhação
 
 > Cada pasta representa os exercícios de uma aula ou atividade específica.
 
