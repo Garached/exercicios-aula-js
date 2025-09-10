@@ -3,8 +3,10 @@ Este repositório contém os exercícios desenvolvidos durante as aulas da disci
 
 ## 📁 Exercícios:
 
-aula01 - site cópia de São Bernardo do Campo       aula02 - calculadora  
-aula03 - cronômetro com hooks                      aula04 - jogo de adivinhação
+aula01 - site cópia de São Bernardo do Campo       
+aula02 - calculadora  
+aula03 - cronômetro com hooks                     
+aula04 - jogo de adivinhação
 
 > Cada pasta representa os exercícios de uma aula ou atividade específica.
 
